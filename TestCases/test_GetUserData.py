@@ -1,4 +1,7 @@
 # Open terminal and run this command "pytest TestCases "
+#
+# py.test - -html = report.html - s
+
 import requests
 
 

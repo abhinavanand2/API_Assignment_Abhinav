@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Abhinav_API_Securrency/.idea/Abhinav_API_Securrency.iml" filepath="$PROJECT_DIR$/../Abhinav_API_Securrency/.idea/Abhinav_API_Securrency.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Abhinav_securrency.iml" filepath="$PROJECT_DIR$/.idea/Abhinav_securrency.iml" />
     </modules>
   </component>
